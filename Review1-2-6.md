@@ -2,7 +2,7 @@
 
 - grant
 - scandal
-- fable
+- **fable**
 - rug
 - stoop
 - ferry
@@ -14,8 +14,8 @@
 - spite
 - purse
 - raid
-- distress
-- genuine
+- **distress**
+- **genuine**
 - gut adj/n
 - defect
 - allowance
@@ -28,24 +28,24 @@
 - excursion
 - condemn
 - eliminate
-- bait
+- **bait**
 - hatch
 
 - invest
-- curse
-- hazard to
+- **curse**
+- **hazard** to
 - fibre
-- deficit
+- **deficit**
 - patent
 - pillar
-- ridge
+- **ridge**
 - curb
 - haunt
 - orphan
 
 - famine
 - plural
-- decay
+- **decay** / rot
 - solemn
 - exile
 - antique
@@ -58,15 +58,15 @@
 - induce
 - in conjunction with
 - cease
-- retreat
+- **retreat**
 - estate
-- belly
+- **belly**
 - ample
-- apparatus
+- **apparatus**
 
 - prospect
 - prominent
-- deputy
+- **deputy**
 - timber
 - dignity
 - cellar
@@ -75,13 +75,13 @@
 - diagnose
 
 - compass
-- instinct
+- **instinct**
 - prosperous
-- farewell
+- **farewell**
 - priest
 - mat
-- decent
+- **decent**
 - confine
-- elaborate
-- corrupt
-- diligent
+- **elaborate**
+- **corrupt**
+- **diligent**
