@@ -1,0 +1,157 @@
+# Day9 - Day 17
+
+- saddle
+- **lest**
+- council
+- counsel
+- **lodge** n/v
+- tropical
+- **portrait**
+- harsh
+- **trumpet**
+- trunk 2
+- reservoir
+- twist
+- cherish
+- sin
+- **sow**
+- impose
+- nursery
+- **deposit** n/v
+- **earnest**
+- **oblige**
+- convict
+- discard
+- deceive
+- profound
+
+- virtue
+- undergo
+- **dictate**
+- proceed
+- rival
+- **corridor**
+- **diplomatic**
+- **conquer**
+- inflation
+- heir
+- brochure
+- **deficit**
+- **deficient**
+- **democracy**
+- **obstacle**
+- nuisance
+- **neglect**
+- herd
+- mineral
+- lane
+- **heave**
+- dropout
+- contaminate
+- **contempt**
+
+- restore
+- **receipt**
+- specimen
+- vacuum
+- **barn**
+- compel
+- **bribe**
+- stride
+- soak
+- for the sake of sth/sb
+- **vapour**
+- **haste**
+- grace
+- **ditch** n/v
+- **scout**
+- fountain
+- conscientious
+- acquaint sb with sth
+
+- skim
+- vigorous
+- disorder
+- slam
+- **sleeve**
+- hereby
+- conform / comply
+- **rotten**
+- **rigid**
+- **veteran**
+- vibrate
+- **fatigue**
+- vice
+- chop
+- infectious
+- erect v/adj
+- vinegar
+- **dizzy**
+
+- dump / rubbish dump
+- flourish
+- **loaf** 2
+- stain
+- **marvellous**
+- boast
+- **prevail**
+- **outset**
+- **vulnerable**
+
+- spade
+- oval
+- damp
+- plunge
+- readily
+- persevere
+- trifle
+- brag
+- **resemble**
+- **scold**
+- spectacular
+- **dissolve**
+- ribbon
+- scarce
+- **frost**
+- copact
+- ward
+
+- **weave**
+- crane
+- **dialect**
+- **weed**
+- diameter
+- **soar**
+- riot
+- **weep**
+- welfare
+- stool
+- booth
+- **plague** n/v
+- **intimate**
+- **concede** 2
+- inevitable
+- **whip**
+
+- refugee
+- inhabitant
+- wicked
+- postage
+- insult
+- hostile
+- intact
+- commence
+
+- blast
+- revise
+- grip
+- inferior
+- fleet
+- attorney
+- resign
+- deaf
+- overtake
+- coarse
+- commodity
+- intrude
+- startle
