@@ -7,21 +7,27 @@
 - **lodge** n/v
 - tropical
 - **portrait**
+  - a family portrait
 - harsh
 - **trumpet**
 - trunk 2
 - reservoir
 - twist
 - cherish
-- sin
+- **sin**
+  - She needs to confess her sin and asks for forgiveness.
 - **sow**
+  - Sow the seeds in late march.
 - impose
 - nursery
 - **deposit** n/v
+  - We _put down a deposit_ on the house.
 - **earnest**
+  - in earnest conversation
 - **oblige**
 - convict
-- discard
+- **discard**
+  - Discard any old cleaning materials.
 - deceive
 - profound
 
@@ -29,23 +35,28 @@
 - undergo
 - **dictate**
 - proceed
-- rival
+- **rival**
+  - his chief rival for the job
 - **corridor**
 - **diplomatic**
 - **conquer**
+  - The Normans conquered England in 1066.
 - inflation
 - heir
 - brochure
-- **deficit**
-- **deficient**
+- **deficit** v
+- **deficient** n
+  - I am deficient in vitamin C.
 - **democracy**
 - **obstacle**
+  - Fear of change is an obstacle to progress.
 - nuisance
 - **neglect**
 - herd
 - mineral
 - lane
 - **heave**
+  - Alan heaved his suitcase onto his bed.
 - dropout
 - contaminate
 - **contempt**
@@ -61,12 +72,15 @@
 - soak
 - for the sake of sth/sb
 - **vapour**
+  - water vapour
 - **haste**
+  - In his haste to leave, he forgot his briefcase.
 - grace
 - **ditch** n/v
+  - The government has ditched plans to privatise the prison.
 - **scout**
 - fountain
-- conscientious
+- **conscientious**
 - acquaint sb with sth
 
 - skim
@@ -77,10 +91,15 @@
 - hereby
 - conform / comply
 - **rotten**
+  - The smell of rotten eggs
 - **rigid**
+  - rigid method of education
 - **veteran**
+  - a veteran of the WW2
+  - the veteran leader
 - vibrate
 - **fatigue**
+  - Sam's face was grey with fatigue.
 - vice
 - chop
 - infectious
@@ -89,31 +108,38 @@
 - **dizzy**
 
 - dump / rubbish dump
-- flourish
-- **loaf** 2
+- **flourish**
+  - The economy is booming and small businesses are flourishing
+- **loaf**
 - stain
 - **marvellous**
 - boast
 - **prevail**
+  - the prevailing political culture.
 - **outset**
+  - from the outset
 - **vulnerable**
 
 - spade
 - oval
 - damp
-- plunge
+- **plunge**
+  - Oil price have plunged to a new low.
 - readily
-- persevere
+- **persevere**
+  - He persevere with his task.
 - trifle
 - brag
 - **resemble**
 - **scold**
-- spectacular
+- **spectacular**
+  - The spectacular landscape.
 - **dissolve**
+  - Stir until the suger dissolves.
 - ribbon
 - scarce
 - **frost**
-- copact
+- compact
 - ward
 
 - **weave**
@@ -122,36 +148,48 @@
 - **weed**
 - diameter
 - **soar**
-- riot
+  - Her tempreture soared.
+- **riot**
+  - urban riot
 - **weep**
 - welfare
 - stool
-- booth
+- **booth**
+  - a voting both
 - **plague** n/v
 - **intimate**
-- **concede** 2
+- **concede**
+  - I conceded that I had made a number of errors.
 - inevitable
 - **whip**
 
-- refugee
+- **refugee**
+  - refugee camps
 - inhabitant
 - wicked
 - postage
-- insult
-- hostile
-- intact
-- commence
+- **insult**
+  - Nobody insults my family and gets away with it!
+- **hostile**
+  - hostile attitude
+- **intact**
+  - Only the medieval tower had remained intact.
+- **commence**
 
 - blast
-- revise
-- grip
-- inferior
+- **revise**
+  - We have revised our estimates of population growth.
+- **grip**
+- **inferior**
+  - wine of inferior quality
 - fleet
 - attorney
-- resign
+- **resign**
 - deaf
 - overtake
 - coarse
-- commodity
-- intrude
-- startle
+- **commodity**
+- **intrude** / disturb
+  - Would I be intruding if I came with you?
+- **startle**
+  - I was startle to see Amanda
