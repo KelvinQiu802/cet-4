@@ -193,3 +193,5 @@
   - Would I be intruding if I came with you?
 - **startle**
   - I was startle to see Amanda
+- **acute**
+  - The housing shortage is acute
